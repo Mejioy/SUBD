@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T21:13:12.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="gu1vrJVBRFjnTaZYwvB4" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T21:18:59.654Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="eTVkj9hR4h1cP0y0k65l" version="22.1.8" type="github">
   <diagram name="Страница — 1" id="UIwuyxUuAgWcMKRViX4k">
-    <mxGraphModel dx="2514" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,7 +71,7 @@
         <mxCell id="mFbKZ_o9LPMVzAf8WOri-38" value="Номер телефона" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-120" y="450" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mFbKZ_o9LPMVzAf8WOri-59" value="Время оказания" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="mFbKZ_o9LPMVzAf8WOri-59" value="Дата оказания" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="518" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mFbKZ_o9LPMVzAf8WOri-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="mFbKZ_o9LPMVzAf8WOri-72" target="mFbKZ_o9LPMVzAf8WOri-59" edge="1">
@@ -159,7 +159,7 @@
         <mxCell id="mFbKZ_o9LPMVzAf8WOri-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="mFbKZ_o9LPMVzAf8WOri-95" target="mFbKZ_o9LPMVzAf8WOri-99" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7s7aIejAtqxaljDBsI_9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="mFbKZ_o9LPMVzAf8WOri-95" target="7s7aIejAtqxaljDBsI_9-1">
+        <mxCell id="7s7aIejAtqxaljDBsI_9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="mFbKZ_o9LPMVzAf8WOri-95" target="7s7aIejAtqxaljDBsI_9-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mFbKZ_o9LPMVzAf8WOri-95" value="Сотрудник" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -222,7 +222,7 @@
         <mxCell id="ysqGZ0WYRBbSjP4BedaU-8" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="680" y="440" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7s7aIejAtqxaljDBsI_9-1" value="Фотография" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7s7aIejAtqxaljDBsI_9-1" value="Фотография" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="710" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
