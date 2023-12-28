@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T20:59:47.531Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Nmz_JIJd8IdHB8x-Lw0R" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T11:08:45.498Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="PcZStULajgEn6VIzt9VA" version="22.1.15" type="github">
   <diagram name="Страница — 1" id="UIwuyxUuAgWcMKRViX4k">
     <mxGraphModel dx="2048" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -204,22 +204,22 @@
         <mxCell id="ysqGZ0WYRBbSjP4BedaU-2" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="358" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ysqGZ0WYRBbSjP4BedaU-3" value="m" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ysqGZ0WYRBbSjP4BedaU-3" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="230" y="440" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ysqGZ0WYRBbSjP4BedaU-4" value="k" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ysqGZ0WYRBbSjP4BedaU-4" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="400" y="440" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ysqGZ0WYRBbSjP4BedaU-5" value="n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ysqGZ0WYRBbSjP4BedaU-5" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="319" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ysqGZ0WYRBbSjP4BedaU-6" value="m" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ysqGZ0WYRBbSjP4BedaU-6" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="420" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ysqGZ0WYRBbSjP4BedaU-7" value="n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ysqGZ0WYRBbSjP4BedaU-7" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="500" y="440" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ysqGZ0WYRBbSjP4BedaU-8" value="m" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ysqGZ0WYRBbSjP4BedaU-8" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="680" y="440" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7s7aIejAtqxaljDBsI_9-1" value="Фотография" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
